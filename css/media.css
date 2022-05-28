@@ -1,0 +1,150 @@
+/* Media Query */
+
+@media screen and (max-width: 1440px){
+
+}
+@media screen and (max-width: 1300px){
+    .key-feature-box {
+        margin-left: 127px;
+    }
+    .fx-content .tab-pane {
+        padding: 30px 30px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .fx-box h4 {
+        font-size: 15px;
+    }
+    .fx-price-box h2{
+        font-size: 32px;
+    line-height: 37px;
+   
+    }
+    .fx-price-box a{
+        padding: 12px 33px;
+    }
+    .key-feature-box {
+        margin-left: 74px;
+    }
+    .overview-des-box {
+        margin-bottom: 38px;
+    }
+}
+@media screen and (max-width: 1023px){
+    .fx-head h2{
+        font-size: 25px;
+    }
+    .fx-price-review-box {
+        display: block;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .fx-price-review-box .left-part.part {
+        margin-bottom: 30px;
+        display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    .container{
+        padding: 0px 20px;
+    }
+    .fax-tabs li button{
+        font-size: 18px;
+        padding: 20px 18px;
+    }
+    .key-feature-box {
+        margin-left: 0px;
+    }
+    .fx-content .tab-pane {
+        padding: 30px 20px;
+    }
+    .feature-box .feature-text h4 {
+        font-size: 18px;
+        line-height: 34px;
+    }
+}
+@media screen and (max-width: 767px){
+    .fx-box {
+        margin-right: 20px;
+    }
+    .fx-head h2{
+        margin-bottom: 62px;
+    }
+    .fx-price-box h2 {
+        font-size: 28px; 
+    }
+    .fx-price-box a {
+        padding: 8px 25px;
+    }
+    .fax-tabs li button {
+        font-size: 18px;
+        padding: 12px 18px;
+    }
+    .overview-des-box p{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .buycourse-area {
+        padding: 80px 0px;
+    }
+    .container {
+        padding: 0px 15px;
+    }
+}
+@media screen and (max-width: 479px){
+    .fx-head h2 {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .fx-price-review-box .left-part.part{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .fx-box {
+        margin-right: 0px;
+        display: block;
+        padding-bottom: 16px;
+    }
+    .fx-price-review-box .left-part.part, .fx-price-review-box .right-part.part{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .fx-price-box {
+        margin-left: 0px;
+        padding-bottom: 16px;
+    }
+    .fx-tab-area {
+        padding: 40px 0px;
+    }
+    .fax-tabs li, .fax-tabs li button{
+        width: 100%;
+        display: block;
+    }
+    .fax-tabs li {
+        margin-right: 0px;
+    }
+    .feature-box .feature-text h4 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .fx-head h2 {
+        margin-bottom: 50px;
+    }
+    .feature-image img {
+        max-width: 88%;
+    }
+    .feature-box .feature-text {
+        margin-left: 10px;
+    }
+    .fx-price-review-box .right-part.part {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+
+}
+@media screen and (max-width: 320px){
+
+}
